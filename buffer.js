@@ -1,4 +1,4 @@
-//Stores and load the images in the memory
+//Stores and load the images and audio in the memory
 let bg_image
 let player_image
 let car_image = []
